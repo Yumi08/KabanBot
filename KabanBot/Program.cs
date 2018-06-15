@@ -1,8 +1,8 @@
 ﻿namespace KabanBot
 {
-    class Program
+    internal class Program
     {
-	    static void Main(string[] args)
+	    private static void Main(string[] args)
 	    {
 			Unity.RegisterTypes(); // To get it out of the way
 	    }
